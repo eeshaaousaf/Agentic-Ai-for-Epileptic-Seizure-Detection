@@ -304,7 +304,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Usage
+#  Usage
 
 ## Train Random Forest
 
@@ -319,7 +319,7 @@ python train_cnn.py
 ```
 
 
-# 🧪 Applications
+# Applications
 
 - Smart Healthcare Systems
 - Clinical Decision Support
